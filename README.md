@@ -1,9 +1,13 @@
 # BookStore
-First used the book sites (Saxo, faraos & bog&ide) for benchamarking how the different tables should be setup. 
+First used the book sites (Saxo, faraos & bog&ide) for bench marking how the different tables should be setup. 
 
-#tjek
+##Benchmark result
+
+#SQL
+Hosted in a local SQL database run in a docker SQL container. 
 
 
-#Tjek2
+#NoSQL
+This database is hosted in MongoDB
 
 
