@@ -1,4 +1,4 @@
-# BookStore__
+# BookStore
 First I used the book sites (Saxo, faraos & bog&ide) for bench marking for researching how the different tables should be setup in the relationel database. 
 
 ## Benchmark result  
