@@ -1,5 +1,5 @@
 # BookStore__
-First used the book sites (Saxo, faraos & bog&ide) for bench marking how the different tables should be setup. 
+First I used the book sites (Saxo, faraos & bog&ide) for bench marking for researching how the different tables should be setup in the relationel database. 
 
 ## Benchmark result  
 The main outcome of the Bench marking to include format og the different books.  
