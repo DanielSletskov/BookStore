@@ -1,0 +1,14 @@
+C:\Users\Danie\RiderProjects\BookStore\BookStore\bin\Debug\net8.0\BookStore.exe
+C:\Users\Danie\RiderProjects\BookStore\BookStore\bin\Debug\net8.0\BookStore.deps.json
+C:\Users\Danie\RiderProjects\BookStore\BookStore\bin\Debug\net8.0\BookStore.runtimeconfig.json
+C:\Users\Danie\RiderProjects\BookStore\BookStore\bin\Debug\net8.0\BookStore.dll
+C:\Users\Danie\RiderProjects\BookStore\BookStore\bin\Debug\net8.0\BookStore.pdb
+C:\Users\Danie\RiderProjects\BookStore\BookStore\obj\Debug\net8.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danie\RiderProjects\BookStore\BookStore\obj\Debug\net8.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\Danie\RiderProjects\BookStore\BookStore\obj\Debug\net8.0\BookStore.AssemblyInfo.cs
+C:\Users\Danie\RiderProjects\BookStore\BookStore\obj\Debug\net8.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Danie\RiderProjects\BookStore\BookStore\obj\Debug\net8.0\BookStore.dll
+C:\Users\Danie\RiderProjects\BookStore\BookStore\obj\Debug\net8.0\refint\BookStore.dll
+C:\Users\Danie\RiderProjects\BookStore\BookStore\obj\Debug\net8.0\BookStore.pdb
+C:\Users\Danie\RiderProjects\BookStore\BookStore\obj\Debug\net8.0\BookStore.genruntimeconfig.cache
+C:\Users\Danie\RiderProjects\BookStore\BookStore\obj\Debug\net8.0\ref\BookStore.dll
