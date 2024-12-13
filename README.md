@@ -12,14 +12,14 @@ Both Saxo and bog&ide expcet the user to look througt the datails section of the
 First the SQL database was design and set up by first creating the table []
 The I created the table which had foreign keys calling the first created tables. 
 
-# SQL   
+## SQL   
 The SQL database run in a docker SQL container.  
 I setup 6 table in the database and a single conjuntion table, these can be found in the .
 Standard SQL Table  
 
 Conjuntion Table  
 
-# NoSQL  
+## NoSQL  
 This database is hosted in MongoDB and have two collections, BookRating and Reviews.  
 - BookRatings  
 For storing the different ratings registret by users have given books each rating is saved   
