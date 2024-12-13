@@ -21,13 +21,12 @@ Conjuntion table and one conjuntion table for storing shared genre across books.
 The table is colled Book_Genre and have two columns (INT)BookID And (INT)GenreID  
 **NoSQL Database**  
 The NoSQL database is hosted in MongoDB and is build up of two collections BookRating and BookReviews.  
-
 For storing the different ratings registret by users have given books each rating is saved.  
 The collection is setup by multiple instances like shown belowe.  
-- BookRatings  
+- BookRatings    
 Username:  
 BookID:  
-BookRating:
+BookRating:  
 - BookReviews  
 Username:  
 BookID:  
@@ -35,13 +34,18 @@ BookRating:
 For storing the different reviews are saved with each book id and the user id.  
 
 ## TASK 2 Implementation in C#  
-  
+When planning the application I first setup the Service project and the API.  
+Then I cresated the different folder for Models, Controllers and Services.  
   
   
 ## TASK 3 Project setup and Delevery  
+**DB setup**
+Run the different SQL queries.  
+First : INITIAL_SQL_TABLES.SQL
+Then  : INSERT_TBL_DATA.SQL
+  
+For the noSQL in imorpted the two json filen for the matchin collection for each.  
 **Projeck setup**  
-The book application isde  setup with
-
 
 # Reflection  
 If I where to start over with this project I would set the ISBN as every books main ID instead of have in, I woul also reserve more time for developingthe acualt service and API.  
