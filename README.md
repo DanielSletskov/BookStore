@@ -4,7 +4,7 @@
 
 
 ## TASK 1  
-Relationel Database
+**Relationel Database**  
 The SQL database run in a docker SQL container.  
 I setup 6 table in the database and a single conjuntion table, these can be found in the .
 Standard SQL Table  
